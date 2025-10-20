@@ -1,4 +1,4 @@
-package s4.s4_1Ejer_Factura;
+package s4.factura;
 import javax.swing.JOptionPane;
 
 public class MainFactura {

@@ -1,4 +1,4 @@
-package s4.s4_3Ejer_Fecha;
+package s4.fecha;
 import javax.swing.JOptionPane;
 
 public class MainFecha {

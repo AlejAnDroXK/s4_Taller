@@ -1,4 +1,4 @@
-package s4.s4_1Ejer_Factura;
+package s4.factura;
 
 public class Factura {
     //Variables

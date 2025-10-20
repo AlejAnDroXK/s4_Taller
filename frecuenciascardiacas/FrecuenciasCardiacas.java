@@ -1,4 +1,4 @@
-package s4.s4_4Ejer_FrecuenciasCardiacas;
+package s4.frecuenciascardiacas;
 
 import java.time.LocalDate;
 import java.time.Period;

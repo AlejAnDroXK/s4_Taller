@@ -1,4 +1,4 @@
-package s4.s4_5Ejer_PerfilMedico;
+package s4.perfilmedico;
 
 import javax.swing.*;
 

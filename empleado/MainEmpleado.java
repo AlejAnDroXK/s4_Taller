@@ -1,4 +1,4 @@
-package s4.s4_2Ejer_Empleado;
+package s4.empleado;
 
 import javax.swing.*;
 
